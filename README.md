@@ -3,8 +3,8 @@
 > 千锋教育高级教研员、CSDN博客专家、万粉博主、阿里云专家博主、掘金优质作者
 
 ## 配套开源项目资料
-**Github：**
-**Gitee：**
+**Github地址：** https://github.com/SunLtd/LearnJava
+**Gitee地址：** https://gitee.com/sunyiyi/LearnJava
 
 ---
 
