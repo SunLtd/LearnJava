@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book category="children">
+		<title lang="cn">跟壹哥学java</title>
+		<author>一一哥</author>
+		<year>2008</year>
+		<price>29.99</price>
+	</book>
+	<book category="web">
+		<title lang="en">跟壹哥学XML</title>
+		<author>壹哥</author>
+		<year>2023</year>
+		<price>39.88</price>
+	</book>
+</bookstore>
