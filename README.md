@@ -160,3 +160,63 @@ Java广泛应用在金融、保险、电商、物流、通讯、交通、互联�
 - 包装类：概念 / 分类 / 常用包装类 
 - 装箱与拆箱：概念 / 实现案例
 - Integer原理：int与Integer的区别 / Integer源码解析 / Integer特性
+
+#### Day20 - [字符串、编码格式与正则表达式]()
+
+- String字符串：简介 / 定义方式 / 常用方法：比较、判空、拼接、转换、格式化等
+- 字符串编码：简介 / 常用编码：ASCII、GB2312、Big5、Unicode、UTF-8、GBK / 编码设置 
+- 正则表达式：简介 / 基本语法 / 常用API / 验证电话号码 / 验证身份证号
+
+#### Day21 - [字符串原理、StringBuilder与StringBuffer]()
+
+- String原理：final特点 / String源码解读 / String不可变性 / 如何改变String内容
+- 字符串常量池：概念 / 代码案例 / 字符串内存分配 / intern()方法
+- StringBuilder：简介 / 基本特性 / 基本用法 /  
+- StringBuffer：简介 / 基本特性 / 基本用法
+- 扩容机制：继承关系 / AbstractStringBuilder类 / 容量设置 / 扩容过程 / 
+
+#### Day22 - [常用数字类]()
+
+- Number类：简介 / 数字格式化
+- Math数学类：简介 / 静态常量 / 最大值、最小值、平均值 / 求整运算 / 三角函数 / 指数运算 /   生成随机数 
+- BigInteger类：简介 / 常用方法 
+- BigDecimal类：简介 / 常用方法 / 数值比较
+
+#### Day23 - [时间类及其新特性]()
+
+- 时间核心概念：本地时间 / 时区 / 本地化 / 夏令时 / 时间起点 / 时间戳
+- Date类：简介 / 构造方法 / 常用API / 基本使用
+- Calendar日历类：简介 / 静态常量 / 常用方法 / 获取当前时间 
+- GregorianCalendar类：简介 / 基本用法
+- 时间格式化：时间模式 / printf()格式化 / DateFormat类 / SimpleDateFormat类
+- 日期时间新特性：LocalDateTime / ZonedDateTime / DateTimeFormatter / Instant / 新旧时间API转换
+
+#### Day24 - [Java常用类]()
+
+- System类：简介 / 静态变量 / 静态方法 / 时间起点 / 时间戳
+- Random类：简介 / 常用API / 基本用法
+- SecureRandom类：简介 / 基本使用
+
+#### Day25 - [List与Set集合]()
+
+- 集合：简介 / 基本特性 / 核心接口 / 常用实现类 / Collection接口 / Iterator迭代器
+- List集合：简介 / 类关系 / 创建方式 / 遍历方式 / ArrayList集合 / LinkedList集合
+- Set集合：简介 / 基本特性 / 常用方法 / HashSet集合 / TreeSet集合
+
+#### Day26 - [Map与Properties集合]()
+
+- Map集合：简介 / 实现方式 / 常用方法 / 常用实现类 / HashMap集合 / Hashtable集合 / ConcurrentHashMap集合
+- Collection：简介 / 核心方法
+- Collections：简介 / 常用方法：排序、查找、替换、同步
+- Properties类：简介 / 配置文件 / 常用方法 / 读取步骤 / 读写Properties配置文件 / 读写XML配置文件
+
+#### Day27 - [泛型]()
+
+- 泛型：简介 / 特性 / 使用场景 
+- 泛型集合：简介 / 基本语法 / 代码案例
+- 泛型接口：简介 / 代码案例
+- 泛型类：简介 / 代码案例
+- 继承泛型类与实现泛型接口：简介 / 代码案例
+- 泛型方法：简介 / 代码实现
+- 通配符：简介 / 通配符形式 / 未限定通配符？/ PECS原则 / 上限通配符 / 下限通配符
+- 泛型擦除：简介 / 泛型擦除的限制
